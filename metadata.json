@@ -1,0 +1,8 @@
+{
+  "name": "The Reactor",
+  "description": "A high-fidelity, sci-fi inspired intelligence dashboard that 'reacts' to user inputs using Gemini AI. It features real-time telemetry, core stability monitoring, and generative energy visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
